@@ -11,7 +11,7 @@ import time
 # requests==2.28.1
 
 #Web para obter a IP Pública
-URL_IP_PUBLICA = 'https://dinisinho.gal/ip.php'
+URL_IP_PUBLICA = 'http://ip.dinisinho.gal'
 
 # Datos de conexión da conta de DINAHOSTING
 DINA_USUARIO = "usuario@exemplo.com"
